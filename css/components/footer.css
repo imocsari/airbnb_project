@@ -1,0 +1,10 @@
+/* Footer design */
+/* Footer design */
+.footer {
+  background: #565a60;
+  padding: 50px 30px;
+}
+.list-inline a {
+  font-size: 18px;
+  color: white;
+}
